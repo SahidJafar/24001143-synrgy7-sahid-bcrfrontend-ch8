@@ -1,9 +1,8 @@
 # React + TypeScript + Vite
 
 ## Back-end:
-``
 https://github.com/SahidJafar/24001143-SYNRGY7-sah-bcrdatabase-ch8
-``
+
 
 ## Step Using Front-End:
 1. Install Npm
