@@ -4,6 +4,7 @@
 ``
 https://github.com/SahidJafar/24001143-SYNRGY7-sah-bcrdatabase-ch8
 ``
+
 ## Step Using Front-End:
 1. Install Npm
 ```
@@ -18,32 +19,13 @@ $ cp .env.example .env
 $ npm run dev # run development!
 ```
 
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Result:
+1. Eslint :
+![Screenshot (2731)](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/094f212f-2704-4b8d-859c-957f1a3b1f75)
+2. Jest :
+![Screenshot (2730)](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/d6452a97-c38d-405c-a0ff-91cd18eadca8)
+3. Page
+![screencapture-clinquant-travesseiro-e6fbe3-netlify-app-2024-07-06-00_18_14](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/61330e64-04ba-4c56-8ae8-0a87a7927413)
+![screencapture-clinquant-travesseiro-e6fbe3-netlify-app-login-2024-07-06-00_19_07](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/839cec4e-c75b-4bbd-abe4-20cb69e3c862)
+![screencapture-clinquant-travesseiro-e6fbe3-netlify-app-admin-cars-2024-07-06-00_22_09 (1)](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/c068264c-a4c9-4d60-baf2-01c32770ecf4)
+![screencapture-clinquant-travesseiro-e6fbe3-netlify-app-admin-cars-addCar-2024-07-06-00_23_27](https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8/assets/58686490/0e287fd8-b108-4d19-90b4-2326549e8cf8)
