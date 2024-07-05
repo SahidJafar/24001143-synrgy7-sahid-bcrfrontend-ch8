@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1720198803330" clover="3.2.0">
+  <project timestamp="1720198803330" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="2" coveredconditionals="2" methods="12" coveredmethods="12" elements="62" coveredelements="62" complexity="0" loc="48" ncloc="48" packages="4" files="9" classes="9"/>
+    <package name="elements">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="deleteModal.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\elements\deleteModal.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="fragments.Auth">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="authSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\Auth\authSection.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="fragments.Dashboard">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="dashboard.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\Dashboard\dashboard.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="fragments.LandingPage">
+      <metrics statements="36" coveredstatements="36" conditionals="2" coveredconditionals="2" methods="9" coveredmethods="9"/>
+      <file name="faqSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\faqSection.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+      </file>
+      <file name="footer.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\footer.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="gettingStartedSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\gettingStartedSection.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="heroSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\heroSection.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+      </file>
+      <file name="ourSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\ourSection.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+      <file name="whyUsSection.tsx" path="D:\Kuliah\Synrgy Academy\Challange\Chapter 8\24001143-synrgy7-sahid-bcrfrontend-ch8\src\components\fragments\LandingPage\whyUsSection.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
